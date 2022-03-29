@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Contact me</title>
+<!-- TemplateEndEditable -->
+	
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/jup3ymb.css">
+<link rel="stylesheet" href="https://use.typekit.net/jup3ymb.css">
+<link rel="stylesheet" href="https://use.typekit.net/jup3ymb.css">
+<!-- TemplateBeginEditable name="head" -->
+	
+<style type="text/css">
+	
+</style>
+
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+		
+		<li><a href="about.html">About</a></li>
+		<li><a href="blog.html">Blog</a></li>
+		<li><a href="gallery.html">Gallery</a></li>
+		<li><a href="contact.html">Contact</a></li>
+		
+	</ul>
+	</nav>
+  <!--Begin Floated Elements-->
+  <aside><h3>I'm a woman, a daughter, a student, a sister and a friend. I am also a photographer in my spare time.</h3>
+	<h3>Follow along to view the beauties of my life!</h3>
+	<h3>by Alyssa Hill</h3>
+	</aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable -->  <!--End Floated Elements-->  
+<footer>Content for New footer Tag Goes Here</footer>
+	</div>
+</body>
+</html>
